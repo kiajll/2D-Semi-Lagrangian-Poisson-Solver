@@ -51,3 +51,7 @@ This method approximates the effects of the Navier-Stokes equations while keepin
 🔹 **Add viscosity:** Implement a diffusion term $\nu\nabla^2V$ to introduce realistic dissipation.
 <br/> 🔹 **Improve solver speed:** Replace Jacobi with Multigrid or Successive Over-Relaxation (SOR) for better efficiency.
 <br/> 🔹 **Extend to 3D:** Generalize the solver for three-dimensional incompressible flows.
+### 📝 References
+* Chorin, A. J. (1968). Numerical solution of the Navier-Stokes equations.
+* Stam, J. (1999). Stable Fluids, SIGGRAPH.
+* Anderson, D., Tannehill, J.C., & Pletcher, R.H. (2012). Computational Fluid Mechanics and Heat Transfer (3rd ed.). CRC Press.
