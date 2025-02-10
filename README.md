@@ -55,3 +55,5 @@ This method approximates the effects of the Navier-Stokes equations while keepin
 * Chorin, A. J. (1968). Numerical solution of the Navier-Stokes equations.
 * Stam, J. (1999). Stable Fluids, SIGGRAPH.
 * Anderson, D., Tannehill, J.C., & Pletcher, R.H. (2012). Computational Fluid Mechanics and Heat Transfer (3rd ed.). CRC Press.
+### 📜 License
+This project is licensed under the MIT License.
